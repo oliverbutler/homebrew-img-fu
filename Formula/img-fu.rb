@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class img-fu < Formula
+class ImgFu < Formula
   desc "A steganography tool written in Rust"
   homepage "https://github.com/oliverbutler/img-fu"
   url "https://github.com/oliverbutler/img-fu/releases/download/release/main.tar.gz"
